@@ -1,2 +1,1 @@
-# manage-landing-page
-Manage landing page with TailwindCss
+# Manage landing page with TailwindCss
